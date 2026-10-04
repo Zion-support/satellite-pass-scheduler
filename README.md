@@ -20,3 +20,6 @@ Part of the **Zion App Network — Batch 67 (Space & Satellite Ops AI)**: 840+ i
 - Start with a $99 AI Discovery: https://ziontechgroup.com/discovery/
 
 © 2026 Zion Tech Group
+
+## Part of the Zion App Network
+🛰️ Suite: [Space & Satellite Ops AI Suite](https://github.com/Zion-support/zion-network/blob/main/spotlights/space-satellite-ops-suite.md) · 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · 📣 [Homepage Spotlight](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_SPACE.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
