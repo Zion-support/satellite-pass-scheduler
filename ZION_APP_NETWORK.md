@@ -1,23 +1,13 @@
-# Zion App Network — Interlinks (Batch 67: Space & Satellite Ops AI)
+# Part of the Zion AI App Network
 
-This app is part of the Zion Tech Group network of 840+ interconnected AI apps.
+This app is a member of the Zion AI App Network — 360+ interlinked AI micro-apps by Zion Tech Group.
 
-## Batch 67 siblings
-- [Satellite Pass Scheduler AI](https://ziontechgroup.com/satellite-pass-scheduler/) · [repo](https://github.com/Zion-support/satellite-pass-scheduler)
-- [Ground Station Link Monitor](https://ziontechgroup.com/ground-station-link-monitor/) · [repo](https://github.com/Zion-support/ground-station-link-monitor)
-- [Orbital Conjunction Screener](https://ziontechgroup.com/orbital-conjunction-screener/) · [repo](https://github.com/Zion-support/orbital-conjunction-screener)
+## Explore the network
+- Network hub: https://zion-support.github.io/zion-network/
+- Full apps showcase: https://ziontechgroup.com/apps/network.html
+- Free AI Discovery (instant app recommendations, results emailed to you): https://ziontechgroup.com/discovery/
+- Discovery benefits: https://ziontechgroup.com/apps/discovery-benefits.html
+- Plans & pricing: https://ziontechgroup.com/en/plans/
+- Main site: https://ziontechgroup.com
 
-## Network hubs
-- Homepage: https://ziontechgroup.com
-- Apps directory: https://ziontechgroup.com/apps/
-- App Network hub repo: https://github.com/Zion-support/zion-app-network
-- Network hub site: https://zion-support.github.io/zion-network/
-- Batch 67 showcase: https://ziontechgroup.com/zion-app-network/app-network-batch67-sept27.html
-- Spotlight 27 Sep (d): https://ziontechgroup.com/apps/spotlight-2026-09-27d.html
-
-## Adjacent batches
-- Batch 64 (DevOps & Platform AI): https://ziontechgroup.com/zion-app-network/app-network-batch64-sept27.html
-- Batch 62 (Sustainability & ESG AI): https://ziontechgroup.com/zion-app-network/app-network-batch62-sept27.html
-
-Start with a $99 AI Discovery: https://ziontechgroup.com/discovery/
-© 2026 Zion Tech Group
+Contact: commercial@ziontechgroup.com
